@@ -1,7 +1,7 @@
 {
-  "serverID": "server id here",
-  "ownerID": "owner id here",
-  "message": "message after boosting",
-  "addBoostReaction": "y/n (will add a reaction to the boost message",
-  "Boostreaction": "can be empty if addBoostReaction is egal to n else, insert a discord (custom emoji)"
+  "serverID": "1071826309153558629",
+  "ownerID": "427062114394439690",
+  "message": "BOOST!",
+  "addBoostReaction": ":starberry:",
+  "Boostreaction": ":star:"
   }
